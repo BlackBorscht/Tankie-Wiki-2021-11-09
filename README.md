@@ -25,4 +25,4 @@ To archive a wiki hosted on Fandom, please check documentation under [Help:datab
 
 Alternatively, there is an open-source archival tool from WikiTeam which an be found on [GitHub](https://github.com/WikiTeam/wikiteam) (which migrated from [Google Code](https://code.google.com/archive/p/wikiteam/)) and [XOWA](http://xowa.org/), a   free and open-source application to view wikis on a computer without an Internet connection, [also provides instructions](http://xowa.org/home/wiki/App/Wiki_types/Wikia.com) on how to import database dumps from Fandom (formerly Wikia).
 
-You can also use [Kiwix](https://www.kiwix.org) to view the database dump offline.
+As an alternative to XOWA, you can also use [Kiwix](https://www.kiwix.org) to view the database dump offline.
