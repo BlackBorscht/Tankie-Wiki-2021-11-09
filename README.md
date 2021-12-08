@@ -1,6 +1,13 @@
 # Tankie Wiki (November 9, 2021)
 Latest archived copy of database dump for the Tankie Wiki project as of November 9, 2021 (2021-11-09). Title and file names are time-stamped so maintainers can upload the most recent archived copy. The XML files should be enough to [re-host the wiki elsewhere](http://xowa.org/home/wiki/App/Wiki_types/Wikia.com) if the original website is taken down.
 
+## Table of Contents
+* [About the Project](#about-the-project)
+* [Sources](#sources)
+* [Required Software](#required-software)
+* [How to Archive](#how-to-archive)
+* [How to Download](#how-to-download)
+
 ## About the Project
 >
 >"This document is maintained by a small but diverse network of marxists, anarchists, progressives, and other aligned leftists. Everyone tends to work on their own little section independently or follows their own interests. Wherever possible native speakers have also included links in original languages or worked on sections relevant to their own backgrounds.
@@ -21,6 +28,11 @@ Original Google Docs: https://docs.google.com/document/d/18m1zCEFKIQbEyzx7PJyeXV
 Archived copy of the Tankie Wiki exist either as 7z compressed archive file due to the size of the XML file. Use [7-Zip](https://www.7-zip.org/) or similar software.
 
 ## How to Archive
-To archive a wiki hosted on Fandom, please check documentation under [Help:database download](https://community.fandom.com/wiki/Help:Database_download) on the Fandom website. It is simple as going to Special:Statistics then scrolling to bottom of the page to a header entitled "Database dumps".
+To archive a wiki hosted on Fandom, please check documentation under [Help:database download](https://community.fandom.com/wiki/Help:Database_download) on the Fandom website. It is simple as going to ```Special:Statistics``` then scrolling to bottom of the page to a header entitled "Database dumps".
 
 Alternatively, there is an open-source archival tool from WikiTeam which an be found on [GitHub](https://github.com/WikiTeam/wikiteam) (which migrated from [Google Code](https://code.google.com/archive/p/wikiteam/)) and [XOWA](http://xowa.org/), a   free and open-source application to view wikis on a computer without an Internet connection, [also provides instructions](http://xowa.org/home/wiki/App/Wiki_types/Wikia.com) on how to import database dumps from Fandom (formerly Wikia).
+
+## How to Download
+Please check the [release section](https://github.com/BlackBorscht/Tankie-Wiki-2021-11-09/releases) for easily-accessible downloads instead of trying to save from the repository.
+* [tankie_pages_current.xml.2021-11-09.7z](https://github.com/BlackBorscht/Tankie-Wiki-2021-11-09/releases/download/archived/tankie_pages_current.xml.2021-11-09.7z) [646 KB]
+* [tankie_pages_current.xml.2021-11-09.7z](https://github.com/BlackBorscht/Tankie-Wiki-2021-11-09/releases/download/archived/tankie_pages_full.xml.2021-11-09.7z) [1.43 MB]
