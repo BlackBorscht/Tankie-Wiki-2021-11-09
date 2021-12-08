@@ -11,18 +11,16 @@ Latest archived copy of database dump for the Tankie Wiki project as of November
 >
 >The larger communities with which much of this information was developed are mostly not from the US, are heavily queer, and largely non-white/western."
 
-## Source
+## Sources
 
 Original website: https://tankie.fandom.com/
 
 Original Google Docs: https://docs.google.com/document/d/18m1zCEFKIQbEyzx7PJyeXVVjwYtqMgv6kIGUKr8z5Rg/
 
 ## Required Software
-Archived copy of the Tankie Wiki exist either as 7z compressed archive file or in its original XML format. Use [7-Zip](https://www.7-zip.org/) or similar software.
+Archived copy of the Tankie Wiki exist either as 7z compressed archive file due to the size of the XML file. Use [7-Zip](https://www.7-zip.org/) or similar software.
 
 ## How to Archive
 To archive a wiki hosted on Fandom, please check documentation under [Help:database download](https://community.fandom.com/wiki/Help:Database_download) on the Fandom website. It is simple as going to Special:Statistics then scrolling to bottom of the page to a header entitled "Database dumps".
 
 Alternatively, there is an open-source archival tool from WikiTeam which an be found on [GitHub](https://github.com/WikiTeam/wikiteam) (which migrated from [Google Code](https://code.google.com/archive/p/wikiteam/)) and [XOWA](http://xowa.org/), a   free and open-source application to view wikis on a computer without an Internet connection, [also provides instructions](http://xowa.org/home/wiki/App/Wiki_types/Wikia.com) on how to import database dumps from Fandom (formerly Wikia).
-
-As an alternative to XOWA, you can also use [Kiwix](https://www.kiwix.org) to view the database dump offline.
