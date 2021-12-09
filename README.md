@@ -7,6 +7,7 @@ Latest archived copy of database dump for the Tankie Wiki project as of November
 * [Required Software](#required-software)
 * [How to Archive](#how-to-archive)
 * [How to Download](#how-to-download)
+* [Checksum Information)(#checksum-information)
 
 ## About the Project
 >
@@ -36,3 +37,19 @@ Alternatively, there is set of open-source archival tools from WikiTeam which ca
 Please check the [release section](https://github.com/BlackBorscht/Tankie-Wiki-2021-11-09/releases) for easily-accessible downloads instead of trying to save from the repository if you do not know how to use GitHub.
 * [tankie_pages_current.xml.2021-11-09.7z](https://github.com/BlackBorscht/Tankie-Wiki-2021-11-09/releases/download/archived/tankie_pages_current.xml.2021-11-09.7z) [646 KB]
 * [tankie_pages_current.xml.2021-11-09.7z](https://github.com/BlackBorscht/Tankie-Wiki-2021-11-09/releases/download/archived/tankie_pages_full.xml.2021-11-09.7z) [1.43 MB]
+## Checksum Information
+Name: tankie_pages_full.xml (2021-11-09).7z
+Size: 1495445 bytes (1460 KiB)
+CRC32: 87E50942
+CRC64: 1ACC18F752965A0E
+SHA256: C4B639394E033A1786DBD87FF8F619856C895337CF2B9DDF8E71C385DAF78B71
+SHA1: B27FE6F19F7A1494978088AFA0CB6230519A4EBB
+BLAKE2sp: 09BAC3449012E3BEC5AD5FC1DDAE6A4279D7F8D98677D3CEC0A95B59367CA58C
+
+Name: tankie_pages_current.xml (2021-11-09).7z
+Size: 661308 bytes (645 KiB)
+CRC32: 70CDD65F
+CRC64: 6020F446AF7278CC
+SHA256: 362AAFAD3DB712BD592C92EE86652D2A687E2A9C8157ACB4811773D59D858128
+SHA1: F93F2F2772758D785BAF205040A14F96BC12423A
+BLAKE2sp: A39A062AF83E3FA79B9EC963EE2528008C6EFCDB576BEE75A436F438CFFF6020
