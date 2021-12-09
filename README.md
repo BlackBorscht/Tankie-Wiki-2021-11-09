@@ -36,7 +36,7 @@ Alternatively, there is set of open-source archival tools from WikiTeam which ca
 ## How to Download
 Please check the [release section](https://github.com/BlackBorscht/Tankie-Wiki-2021-11-09/releases) for easily-accessible downloads instead of trying to save from the repository if you do not know how to use GitHub.
 * [tankie_pages_current.xml.2021-11-09.7z](https://github.com/BlackBorscht/Tankie-Wiki-2021-11-09/releases/download/archived/tankie_pages_current.xml.2021-11-09.7z) [646 KB]
-* [tankie_pages_current.xml.2021-11-09.7z](https://github.com/BlackBorscht/Tankie-Wiki-2021-11-09/releases/download/archived/tankie_pages_full.xml.2021-11-09.7z) [1.43 MB]
+* [tankie_pages_full.xml.2021-11-09.7z](https://github.com/BlackBorscht/Tankie-Wiki-2021-11-09/releases/download/archived/tankie_pages_full.xml.2021-11-09.7z) [1.43 MB]
 ## Checksum Information
 
 Name: tankie_pages_full.xml (2021-11-09).7z
