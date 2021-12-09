@@ -30,9 +30,9 @@ Archived copy of the Tankie Wiki exists as 7z compressed archive file due to the
 ## How to Archive
 To archive a wiki hosted on Fandom, please check documentation under [Help:database download](https://community.fandom.com/wiki/Help:Database_download) on the Fandom website. It is simple as going to ```Special:Statistics``` then scrolling to bottom of the page to a header entitled "Database dumps".
 
-Alternatively, there is an open-source archival tool from WikiTeam which an be found on [GitHub](https://github.com/WikiTeam/wikiteam) (which migrated from [Google Code](https://code.google.com/archive/p/wikiteam/)) and [XOWA](http://xowa.org/), a   free and open-source application to view wikis on a computer without an Internet connection, [also provides instructions](http://xowa.org/home/wiki/App/Wiki_types/Wikia.com) on how to import database dumps from Fandom (formerly Wikia).
+Alternatively, there is set of open-source archival tools from WikiTeam which can be found on [GitHub](https://github.com/WikiTeam/wikiteam) (which migrated from [Google Code](https://code.google.com/archive/p/wikiteam/)); and [XOWA](http://xowa.org/), a free and open-source application to view wikis on a computer without an Internet connection, [also provides instructions](http://xowa.org/home/wiki/App/Wiki_types/Wikia.com) on how to import database dumps from Fandom (formerly Wikia).
 
 ## How to Download
-Please check the [release section](https://github.com/BlackBorscht/Tankie-Wiki-2021-11-09/releases) for easily-accessible downloads instead of trying to save from the repository.
+Please check the [release section](https://github.com/BlackBorscht/Tankie-Wiki-2021-11-09/releases) for easily-accessible downloads instead of trying to save from the repository if you do not know how to use GitHub.
 * [tankie_pages_current.xml.2021-11-09.7z](https://github.com/BlackBorscht/Tankie-Wiki-2021-11-09/releases/download/archived/tankie_pages_current.xml.2021-11-09.7z) [646 KB]
 * [tankie_pages_current.xml.2021-11-09.7z](https://github.com/BlackBorscht/Tankie-Wiki-2021-11-09/releases/download/archived/tankie_pages_full.xml.2021-11-09.7z) [1.43 MB]
