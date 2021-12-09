@@ -1,5 +1,5 @@
 # Tankie Wiki (November 9, 2021)
-Latest archived copy of database dump for the Tankie Wiki project as of November 9, 2021 (2021-11-09). Title and file names are time-stamped so maintainers can upload the most recent archived copy. The XML files should be enough to [re-host the wiki elsewhere](http://xowa.org/home/wiki/App/Wiki_types/Wikia.com) if the original website is taken down.
+Latest archived copy of database dump for the Tankie Wiki project as of November 9, 2021 (2021-11-09). Title and file names are time-stamped so maintainers can upload the most recent archived copy. The XML files should be enough to [re-host the wiki elsewhere](https://www.mediawiki.org/wiki/Manual:Importing_XML_dumps) if the original website is taken down.
 
 ## Table of Contents
 * [About the Project](#about-the-project)
