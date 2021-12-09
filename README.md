@@ -7,7 +7,7 @@ Latest archived copy of database dump for the Tankie Wiki project as of November
 * [Required Software](#required-software)
 * [How to Archive](#how-to-archive)
 * [How to Download](#how-to-download)
-* [Checksum Information)(#checksum-information)
+* [Checksum Information](#checksum-information)
 
 ## About the Project
 >
